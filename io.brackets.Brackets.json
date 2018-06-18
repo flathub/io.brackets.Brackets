@@ -24,7 +24,7 @@
       "name": "brackets",
       "buildsystem": "simple",
       "build-commands": [
-        "if [[ $(uname -m) = 'x86_64' ]]; then ar x Brackets.Release.release-1.13-prerelease-3.64-bit.deb; else ar x Brackets.Release.release-1.13-prerelease-3.32-bit.deb; fi",
+        "if [[ $(uname -m) = 'x86_64' ]]; then ar x Brackets*.64-bit.deb; else ar x Brackets*.32-bit.deb; fi",
         "tar -xf data.tar.xz",
         "cp -r opt/brackets/* /app",
         "mkdir -p /app/share/icons/hicolor/512x512/apps",
@@ -40,13 +40,13 @@
       "sources": [
         {
           "type": "file",
-          "url": "https://github.com/adobe/brackets/releases/download/release-1.13-prerelease-3/Brackets.Release.release-1.13-prerelease-3.64-bit.deb",
-          "sha256": "816db6574d358204bb1e2c6d248154a49d128420cd87bea58d54d3270b7d1f08"
+          "url": "https://github.com/adobe/brackets/releases/download/release-1.13/Brackets.Release.1.13.64-bit.deb",
+          "sha256": "5c489a51d14b66d696f1b167018dae598f9a27c1bd08a4026334e300f7dc93cf"
         },
         {
           "type": "file",
-          "url": "https://github.com/adobe/brackets/releases/download/release-1.13-prerelease-3/Brackets.Release.release-1.13-prerelease-3.32-bit.deb",
-          "sha256": "5792326c49787a8d32209a049db0069d5501fbb452429ce11304efc4eb4a2bf0"
+          "url": "https://github.com/adobe/brackets/releases/download/release-1.13/Brackets.Release.1.13.32-bit.deb",
+          "sha256": "3a83332e4e54fa3721dfa7e67a9d143c0b2658aec9de9b0c1042435f5f496624"
         },
         {
           "type": "file",
@@ -54,8 +54,8 @@
         },
         {
           "type": "file",
-          "url": "https://github.com/adobe/brackets/archive/release-1.13-prerelease-3.tar.gz",
-          "sha256": "8dbc31a234f724b87ab37244999cc352c8ede34819380449fd9850bc950d74c3"
+          "url": "https://github.com/adobe/brackets/archive/release-1.13.tar.gz",
+          "sha256": "2e129cbe160e58b6fb4cfa9de802fe90c5e81771d9d3bae099738d61c2ee9af1"
         }
       ]
     }
