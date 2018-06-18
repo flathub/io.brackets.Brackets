@@ -10,9 +10,9 @@
   <description>
     <p>Brackets is a modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript.</p>
     <ul>
-	<li><strong>Tools shouldn't get in your way.</strong> Instead of cluttering up your coding environment with lots of panels and icons, 		the Quick Edit UI in Brackets puts context-specific code and tools inline.</li>
-	<li><strong>Brackets is in sync with your browser</strong>. With Live Preview, Brackets works directly with your browser to push code 		edits instantly and jump back and forth between your real source code and the browser view.</li>
-	<li><strong>Do it yourself.</strong> Because Brackets is open source, and built with HTML, CSS and JavaScript, you can help build the 		best code editor for the web.</li>
+	<li>TOOLS SHOULDN'T GET IN YOUR WAY. Instead of cluttering up your coding environment with lots of panels and icons, 		the Quick Edit UI in Brackets puts context-specific code and tools inline.</li>
+	<li>BRACKETS IS IN SYNC WITH YOUR BROWSER. With Live Preview, Brackets works directly with your browser to push code 		edits instantly and jump back and forth between your real source code and the browser view.</li>
+	<li>DO IT YOURSELF. Because Brackets is open source, and built with HTML, CSS and JavaScript, you can help build the 		best code editor for the web.</li>
     </ul>		
   </description>
   <screenshots>
