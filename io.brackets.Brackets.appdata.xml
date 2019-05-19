@@ -4,6 +4,7 @@
   <name>Brackets</name>
   <developer_name>Adobe</developer_name>
   <summary>An open source code editor for the web</summary>
+  <metadata_license>MIT</metadata_license>
   <project_license>MIT</project_license>
   <url type="homepage">http://brackets.io</url>
   <content_rating type="oars-1.1" />
