@@ -4,9 +4,10 @@
   <name>Brackets</name>
   <developer_name>Adobe</developer_name>
   <summary>An open source code editor for the web</summary>
-  <metadata_license>MIT</metadata_license>
+  <metadata_license>CC0-1.0</metadata_license>
   <project_license>MIT</project_license>
   <url type="homepage">http://brackets.io</url>
+  <content_rating type="oars-1.1" />
   <description>
     <p>Brackets is a modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript.</p>
     <ul>
@@ -24,6 +25,7 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="1.14" date="2019-05-02"/>
     <release version="1.13" date="2018-06-18"/>
   </releases>
   <kudos>

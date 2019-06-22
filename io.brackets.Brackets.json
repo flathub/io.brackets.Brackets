@@ -42,13 +42,13 @@
       "sources": [
         {
           "type": "file",
-          "url": "https://github.com/adobe/brackets/releases/download/release-1.13/Brackets.Release.1.13.64-bit.deb",
-          "sha256": "5c489a51d14b66d696f1b167018dae598f9a27c1bd08a4026334e300f7dc93cf"
+          "url": "https://github.com/adobe/brackets/releases/download/release-1.14/Brackets.Release.1.14.64-bit.deb",
+          "sha256": "4df8490efb8a35ff93ac6975655ab4af9a56547eb4a346514803aa2e1f20f30e"
         },
         {
           "type": "file",
-          "url": "https://github.com/adobe/brackets/releases/download/release-1.13/Brackets.Release.1.13.32-bit.deb",
-          "sha256": "3a83332e4e54fa3721dfa7e67a9d143c0b2658aec9de9b0c1042435f5f496624"
+          "url": "https://github.com/adobe/brackets/releases/download/release-1.14/Brackets.Release.1.14.32-bit.deb",
+          "sha256": "2c0053fb50d1d79071d455a35fbe6f4f9cdb3cd1edf90bec55a4c0c90661a1f1"
         },
         {
           "type": "file",
@@ -56,8 +56,8 @@
         },
         {
           "type": "file",
-          "url": "https://github.com/adobe/brackets/archive/release-1.13.tar.gz",
-          "sha256": "2e129cbe160e58b6fb4cfa9de802fe90c5e81771d9d3bae099738d61c2ee9af1"
+          "url": "https://github.com/adobe/brackets/archive/release-1.14.tar.gz",
+          "sha256": "11dd7edcdacfe772d9ad2f824aa605972f0a3a6caab62f4957682287c1752838"
         }
       ]
     }
