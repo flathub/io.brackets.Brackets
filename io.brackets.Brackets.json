@@ -1,9 +1,9 @@
 {
   "app-id": "io.brackets.Brackets",
   "base": "io.atom.electron.BaseApp",
-  "base-version": "19.08",
+  "base-version": "20.08",
   "runtime": "org.freedesktop.Sdk",
-  "runtime-version": "19.08",
+  "runtime-version": "20.08",
   "sdk": "org.freedesktop.Sdk",
   "command": "brackets",
   "separate-locales": false,
